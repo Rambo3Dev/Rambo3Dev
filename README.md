@@ -11,21 +11,20 @@
 - **Skills**:
   - **🚀 Advanced FiveM Scripting**
   - **🎨 Futuristic UI/UX Design**
-  - **🕹️ Interactive Loading Screen Mastery**
 
 ---
 
 ### 🛠️ **Current Quests**
-- **Upgrade UI/UX**: Exploring the latest trends in user interfaces and experience design to enhance user engagement.
-- **Web Mastery**: Deep-diving into the realms of HTML, CSS, and JavaScript to power the next-gen web.
-- **Game Dev**: Crafting scripts that bring unique gaming experiences to life.
+- **FiveM Excellence**: Crafting and optimizing scripts to enhance gameplay experiences.
+- **UI/UX Mastery**: Innovating cutting-edge user interfaces for immersive interactions.
+- **Web Development**: Exploring HTML, CSS, and JavaScript to support and extend my projects.
 
 ---
 
 ### 🤝 **Co-op Opportunities**
-- **FiveM Projects**: Looking to join forces on groundbreaking scripts that redefine the gaming world? I’m in!
-- **Futuristic Ventures**: Have a vision that pushes the boundaries of design? Let’s collaborate!
-- **Open Source**: I’m always ready to contribute to the open-source community. Let’s build something amazing together!
+- **FiveM Projects**: Collaborate on pioneering scripts and mods that elevate gaming experiences.
+- **Futuristic Ventures**: Partner with me on visionary design projects that push boundaries.
+- **Open Source**: Join me in contributing to and building open-source tools and resources.
 
 ---
 
@@ -38,8 +37,23 @@
 
 ### 🌀 **Personal Stats**
 - **Pronouns**: He/Him
-- **Fun Fact**: *Built an entire interactive loading screen from scratch for the thrill of the challenge!* 🌟
+- **Fun Fact**: *I build immersive FiveM experiences that transform gaming worlds!* 🌟
 
 ---
 
-⚔️ *Explore my repos and gear up for a futuristic journey. Together, we'll conquer new frontiers!* ⚔️
+### 📊 **GitHub Stats**
+- **Top Languages**:
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rambo3Dev&show_icons=true&locale=en&layout=compact" alt="Rambo3Dev" />
+  
+- **Profile Stats**:
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rambo3Dev&show_icons=true&locale=en" alt="Rambo3Dev" />
+
+- **Streak Stats**:
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rambo3Dev&" alt="Rambo3Dev" />
+
+- **Trophies**:
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Rambo3Dev" alt="Rambo3Dev" />
+
+---
+
+⚔️ *Explore my repos and join me in crafting innovative FiveM solutions. Together, we’ll redefine the gaming landscape!* ⚔️
